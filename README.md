@@ -2,7 +2,7 @@
 
 > Note: This is a live document.
 
-As OldSchool Runescape (OSRS) grows bringing with it a new user base along with the numerous content updates. It is quickly becoming evident that the interfaces are falling behind interms of usability and function. OSRS has a userbase that is adamant about it's nostalgic appeal and as such, rarely deviates from the styles and overall design ethos.
+As OldSchool RuneScape (OSRS) grows bringing with it a new user base along with the numerous content updates. It is quickly becoming evident that the interfaces are falling behind interms of usability and function. OSRS has a userbase that is adamant about it's nostalgic appeal and as such, rarely deviates from the styles and overall design ethos.
 
 This document discusses a number of interfaces, their usages and suggestions on how to improve them while maintaining the nostalgia which makes the game so successful.
 
@@ -84,7 +84,7 @@ This sub-interface has a large empty space in the center with a drop down. The d
 **Issues**
 1. There is an extra click to navigate to the minigame of choice.
 2. The clan chat interface is duplicated in the large container in the center. As a user, the clan chat should be primarily accessible via the clan-chat menu.
-3. The placeholder `---` in the interfaces are not populated until the activity is show.
+3. The placeholder `---` in the interfaces are not populated until the activity is selected.
 
 **Suggestions**
 1. List all the minigames instead of using a dropdown.
@@ -109,3 +109,25 @@ This sub-interface is most disimillar to the other subinterfaces. The container,
 **Suggestions**
 1. Use a consistent style for the items in the list.
 2. Enable click-on-item-in-list functionality to open corresponding "House" guide.
+
+</br>
+
+## Music Panel
+
+The music inteface is rather clunkly for the almost single feature it provides. We can clean this up considerably and make it easier to navigate.
+
+![](assets/music.png)
+> Original (left), suggested (right)
+
+**Issues**
+1. The "Auto" and "Man" buttons are toggle and not buttons. Enabling one disables the other.
+2. The heirarchy of the header is confusing -- is it "Playing: Moody" or "Playing Auto Loop".
+3. The `blackBorder` issue.
+4. The scrollbar is within the container this time and not outside like in the `Quest + more Panel`.
+4. The `521/581` text is ambigious in its meaning.
+5. The inteface uses a non-standard font size for the items in the list.
+
+**Suggestions**
+1. Use buttons for loop and shuffle that are more universally understood.
+2. Clearly indicate the track that is being played.
+3. Clearly indicate the number of tracks available.
