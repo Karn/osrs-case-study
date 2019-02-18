@@ -2,7 +2,7 @@
 
 > Note: This is a live document.
 
-As OldSchool RuneScape (OSRS) grows bringing with it a new user base along with the numerous content updates. It is quickly becoming evident that the interfaces are falling behind interms of usability and function. OSRS has a userbase that is adamant about it's nostalgic appeal and as such, rarely deviates from the styles and overall design ethos.
+As OldSchool RuneScape (OSRS) and brings a new user base along with the numerous content updates, it is quickly becoming evident that the interfaces are falling behind in terms of usability and function. OSRS has a userbase that is adamant about it's nostalgic appeal and as such, rarely deviates from the styles and overall design ethos.
 
 This document discusses a number of interfaces, their usages and suggestions on how to improve them while maintaining the nostalgia which makes the game so successful.
 
